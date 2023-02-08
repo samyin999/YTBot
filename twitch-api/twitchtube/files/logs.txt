@@ -1,0 +1,286 @@
+
+
+Feb-01-2023 @ 19:42:30 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-01-2023 @ 19:42:30 - info: You're running the latest version of opplast at 1.0.14
+Feb-01-2023 @ 19:42:30 - info: Going to make video featuring 3 streamers/games, that will end up being ~210.0 seconds long
+Feb-01-2023 @ 19:42:31 - info: Getting clips for channel Trainwreckstv
+Feb-01-2023 @ 19:42:32 - info: Getting clips for game Just Chatting
+Feb-01-2023 @ 19:42:34 - clip: Downloading clip with slug: ProtectiveConsiderateSalmonBleedPurple-4XHxJhDhorl2SIeF.
+Feb-01-2023 @ 19:42:34 - clip: Saving 'ProtectiveConsiderateSalmonBleedPurple-4XHxJhDhorl2SIeF' as 'ProtectiveConsiderateSalmonBleedPurple4XHxJhDhorl2SIeF.mp4'.
+Feb-01-2023 @ 19:42:43 - clip: ProtectiveConsiderateSalmonBleedPurple-4XHxJhDhorl2SIeF has been downloaded.
+
+Feb-01-2023 @ 19:42:43 - info: Downloaded 1 clips from this batch
+
+Feb-01-2023 @ 19:42:44 - clip: Downloading clip with slug: ViscousSilkyCookieRiPepperonis-OnorsP_sseV_57aM.
+Feb-01-2023 @ 19:42:44 - clip: Saving 'ViscousSilkyCookieRiPepperonis-OnorsP_sseV_57aM' as 'ViscousSilkyCookieRiPepperonisOnorsP_sseV_57aM.mp4'.
+Feb-01-2023 @ 19:42:48 - clip: ViscousSilkyCookieRiPepperonis-OnorsP_sseV_57aM has been downloaded.
+
+Feb-01-2023 @ 19:42:49 - clip: Downloading clip with slug: PiliableKnottyLeopardOSfrog-9AfrgWqhjMCyflR4.
+Feb-01-2023 @ 19:42:49 - clip: Saving 'PiliableKnottyLeopardOSfrog-9AfrgWqhjMCyflR4' as 'PiliableKnottyLeopardOSfrog9AfrgWqhjMCyflR4.mp4'.
+Feb-01-2023 @ 19:42:56 - clip: PiliableKnottyLeopardOSfrog-9AfrgWqhjMCyflR4 has been downloaded.
+
+Feb-01-2023 @ 19:42:56 - clip: Downloading clip with slug: HeartlessSneakyKiwiCopyThis-DDFDZNbzE8sGUi_Z.
+Feb-01-2023 @ 19:42:56 - clip: Saving 'HeartlessSneakyKiwiCopyThis-DDFDZNbzE8sGUi_Z' as 'HeartlessSneakyKiwiCopyThisDDFDZNbzE8sGUi_Z.mp4'.
+Feb-01-2023 @ 19:43:06 - clip: HeartlessSneakyKiwiCopyThis-DDFDZNbzE8sGUi_Z has been downloaded.
+
+Feb-01-2023 @ 19:43:07 - clip: Downloading clip with slug: AttractiveAttractivePlumKevinTurtle-Z5cKAAlSZCTYWYuh.
+Feb-01-2023 @ 19:43:07 - clip: Saving 'AttractiveAttractivePlumKevinTurtle-Z5cKAAlSZCTYWYuh' as 'AttractiveAttractivePlumKevinTurtleZ5cKAAlSZCTYWYuh.mp4'.
+Feb-01-2023 @ 19:43:19 - clip: AttractiveAttractivePlumKevinTurtle-Z5cKAAlSZCTYWYuh has been downloaded.
+
+Feb-01-2023 @ 19:43:20 - clip: Downloading clip with slug: CrackyFineSlothPupper-mUYXQc2vIIsgQ5Si.
+Feb-01-2023 @ 19:43:20 - clip: Saving 'CrackyFineSlothPupper-mUYXQc2vIIsgQ5Si' as 'CrackyFineSlothPuppermUYXQc2vIIsgQ5Si.mp4'.
+Feb-01-2023 @ 19:43:25 - clip: CrackyFineSlothPupper-mUYXQc2vIIsgQ5Si has been downloaded.
+
+Feb-01-2023 @ 19:43:26 - clip: Downloading clip with slug: TawdryIgnorantSproutCclamChamp-klXPJ7miPxsrrFJL.
+Feb-01-2023 @ 19:43:26 - clip: Saving 'TawdryIgnorantSproutCclamChamp-klXPJ7miPxsrrFJL' as 'TawdryIgnorantSproutCclamChampklXPJ7miPxsrrFJL.mp4'.
+Feb-01-2023 @ 19:43:30 - clip: TawdryIgnorantSproutCclamChamp-klXPJ7miPxsrrFJL has been downloaded.
+
+Feb-01-2023 @ 19:43:30 - info: Downloaded 6 clips from this batch
+
+Feb-01-2023 @ 19:43:30 - info: Downloaded a total of 7 clips
+Feb-01-2023 @ 19:43:30 - info: Going to render video in C:/Users/samyi/My Drive (johnnymycroft@gmail.com)/Automation/rando github/twitchtube-master/clips/Feb-01-2023/zagmq
+
+Feb-01-2023 @ 19:43:30 - info: Added AttractiveAttractivePlumKevinTurtleZ5cKAAlSZCTYWYuh.mp4 to be rendered
+Feb-01-2023 @ 19:43:31 - info: Added CrackyFineSlothPuppermUYXQc2vIIsgQ5Si.mp4 to be rendered
+Feb-01-2023 @ 19:43:32 - info: Added HeartlessSneakyKiwiCopyThisDDFDZNbzE8sGUi Z.mp4 to be rendered
+Feb-01-2023 @ 19:43:33 - info: Added PiliableKnottyLeopardOSfrog9AfrgWqhjMCyflR4.mp4 to be rendered
+Feb-01-2023 @ 19:43:34 - info: Added ProtectiveConsiderateSalmonBleedPurple4XHxJhDhorl2SIeF.mp4 to be rendered
+Feb-01-2023 @ 19:43:35 - info: Added TawdryIgnorantSproutCclamChampklXPJ7miPxsrrFJL.mp4 to be rendered
+Feb-01-2023 @ 19:43:36 - info: Added ViscousSilkyCookieRiPepperonisOnorsP sseV 57aM.mp4 to be rendered
+Feb-01-2023 @ 19:48:46 - info: Video is done rendering!
+
+Feb-02-2023 @ 19:46:15 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-02-2023 @ 19:46:15 - info: You're running the latest version of opplast at 1.0.14
+Feb-02-2023 @ 19:46:15 - info: Going to make video featuring 3 streamers/games, that will end up being ~210.0 seconds long
+Feb-02-2023 @ 19:46:16 - info: Getting clips for channel Trainwreckstv
+Feb-02-2023 @ 19:46:17 - info: Getting clips for game Just Chatting
+Feb-02-2023 @ 19:46:19 - clip: Downloading clip with slug: CautiousBumblingSquidKeepo-iswLmw7w2zHkZPIQ.
+Feb-02-2023 @ 19:46:19 - clip: Saving 'CautiousBumblingSquidKeepo-iswLmw7w2zHkZPIQ' as 'CautiousBumblingSquidKeepoiswLmw7w2zHkZPIQ.mp4'.
+Feb-02-2023 @ 19:58:12 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-02-2023 @ 19:58:13 - info: You're running the latest version of opplast at 1.0.14
+Feb-02-2023 @ 19:58:13 - info: Going to make video featuring 3 streamers/games, that will end up being ~210.0 seconds long
+Feb-02-2023 @ 19:58:13 - info: Getting clips for channel Trainwreckstv
+Feb-02-2023 @ 19:58:15 - info: Getting clips for game Just Chatting
+Feb-02-2023 @ 19:58:16 - clip: Downloading clip with slug: CautiousBumblingSquidKeepo-iswLmw7w2zHkZPIQ.
+Feb-02-2023 @ 19:58:16 - clip: Saving 'CautiousBumblingSquidKeepo-iswLmw7w2zHkZPIQ' as 'CautiousBumblingSquidKeepoiswLmw7w2zHkZPIQ.mp4'.
+Feb-02-2023 @ 19:58:24 - clip: CautiousBumblingSquidKeepo-iswLmw7w2zHkZPIQ has been downloaded.
+
+Feb-02-2023 @ 19:58:24 - clip: Downloading clip with slug: HonestHumbleBulgogiNerfBlueBlaster-y3ly2lAYHlrnkSoo.
+Feb-02-2023 @ 19:58:24 - clip: Saving 'HonestHumbleBulgogiNerfBlueBlaster-y3ly2lAYHlrnkSoo' as 'HonestHumbleBulgogiNerfBlueBlastery3ly2lAYHlrnkSoo.mp4'.
+Feb-02-2023 @ 19:58:27 - clip: HonestHumbleBulgogiNerfBlueBlaster-y3ly2lAYHlrnkSoo has been downloaded.
+
+Feb-02-2023 @ 19:58:28 - clip: Downloading clip with slug: HungrySaltyPoxPeoplesChamp-cfsHYGmTJALDjhOh.
+Feb-02-2023 @ 19:58:28 - clip: Saving 'HungrySaltyPoxPeoplesChamp-cfsHYGmTJALDjhOh' as 'HungrySaltyPoxPeoplesChampcfsHYGmTJALDjhOh.mp4'.
+Feb-02-2023 @ 19:58:33 - clip: HungrySaltyPoxPeoplesChamp-cfsHYGmTJALDjhOh has been downloaded.
+
+Feb-02-2023 @ 19:58:33 - clip: Downloading clip with slug: BadCrispyHeronAsianGlow-uzHinIoBe8yqTc8Q.
+Feb-02-2023 @ 19:58:33 - clip: Saving 'BadCrispyHeronAsianGlow-uzHinIoBe8yqTc8Q' as 'BadCrispyHeronAsianGlowuzHinIoBe8yqTc8Q.mp4'.
+Feb-02-2023 @ 19:58:41 - clip: BadCrispyHeronAsianGlow-uzHinIoBe8yqTc8Q has been downloaded.
+
+Feb-02-2023 @ 19:58:42 - clip: Downloading clip with slug: EmpathicSpineyKittenVoteNay-LsoEWZbpFGuNIMKV.
+Feb-02-2023 @ 19:58:42 - clip: Saving 'EmpathicSpineyKittenVoteNay-LsoEWZbpFGuNIMKV' as 'EmpathicSpineyKittenVoteNayLsoEWZbpFGuNIMKV.mp4'.
+Feb-02-2023 @ 19:58:50 - clip: EmpathicSpineyKittenVoteNay-LsoEWZbpFGuNIMKV has been downloaded.
+
+Feb-02-2023 @ 19:58:51 - clip: Downloading clip with slug: BloodyCautiousEagleHassanChop-lyLy9O8UcwR2rtZ_.
+Feb-02-2023 @ 19:58:51 - clip: Saving 'BloodyCautiousEagleHassanChop-lyLy9O8UcwR2rtZ_' as 'BloodyCautiousEagleHassanChoplyLy9O8UcwR2rtZ_.mp4'.
+Feb-02-2023 @ 19:58:58 - clip: BloodyCautiousEagleHassanChop-lyLy9O8UcwR2rtZ_ has been downloaded.
+
+Feb-02-2023 @ 19:58:58 - info: Downloaded 6 clips from this batch
+
+Feb-02-2023 @ 19:58:58 - clip: Downloading clip with slug: DepressedNaiveHumanTBTacoRight-eXc--q4WeILDeTRe.
+Feb-02-2023 @ 19:58:58 - clip: Saving 'DepressedNaiveHumanTBTacoRight-eXc--q4WeILDeTRe' as 'DepressedNaiveHumanTBTacoRighteXcq4WeILDeTRe.mp4'.
+Feb-02-2023 @ 19:59:05 - clip: DepressedNaiveHumanTBTacoRight-eXc--q4WeILDeTRe has been downloaded.
+
+Feb-02-2023 @ 19:59:05 - clip: Downloading clip with slug: ThankfulIncredulousKoalaGivePLZ-NYZJS3K7SZnab9M0.
+Feb-02-2023 @ 19:59:05 - clip: Saving 'ThankfulIncredulousKoalaGivePLZ-NYZJS3K7SZnab9M0' as 'ThankfulIncredulousKoalaGivePLZNYZJS3K7SZnab9M0.mp4'.
+Feb-02-2023 @ 19:59:15 - clip: ThankfulIncredulousKoalaGivePLZ-NYZJS3K7SZnab9M0 has been downloaded.
+
+Feb-02-2023 @ 19:59:16 - clip: Downloading clip with slug: AcceptableResourcefulShrewSmoocherZ-C0Bxs-GqdSCIVnnK.
+Feb-02-2023 @ 19:59:16 - clip: Saving 'AcceptableResourcefulShrewSmoocherZ-C0Bxs-GqdSCIVnnK' as 'AcceptableResourcefulShrewSmoocherZC0BxsGqdSCIVnnK.mp4'.
+Feb-02-2023 @ 19:59:22 - clip: AcceptableResourcefulShrewSmoocherZ-C0Bxs-GqdSCIVnnK has been downloaded.
+
+Feb-02-2023 @ 19:59:22 - clip: Downloading clip with slug: SteamyCulturedBadgerGrammarKing-PK0iIK7lHh34FWUO.
+Feb-02-2023 @ 19:59:22 - clip: Saving 'SteamyCulturedBadgerGrammarKing-PK0iIK7lHh34FWUO' as 'SteamyCulturedBadgerGrammarKingPK0iIK7lHh34FWUO.mp4'.
+Feb-02-2023 @ 19:59:28 - clip: SteamyCulturedBadgerGrammarKing-PK0iIK7lHh34FWUO has been downloaded.
+
+Feb-02-2023 @ 19:59:29 - clip: Downloading clip with slug: HelplessSassyRuffGingerPower-P-q6f3Lk9TrXlIqv.
+Feb-02-2023 @ 19:59:29 - clip: Saving 'HelplessSassyRuffGingerPower-P-q6f3Lk9TrXlIqv' as 'HelplessSassyRuffGingerPowerPq6f3Lk9TrXlIqv.mp4'.
+Feb-02-2023 @ 19:59:36 - clip: HelplessSassyRuffGingerPower-P-q6f3Lk9TrXlIqv has been downloaded.
+
+Feb-02-2023 @ 19:59:40 - clip: Downloading clip with slug: DignifiedSpicyFloofYouDontSay-Hk1OL5GaUFoh_N0o.
+Feb-02-2023 @ 19:59:40 - clip: Saving 'DignifiedSpicyFloofYouDontSay-Hk1OL5GaUFoh_N0o' as 'DignifiedSpicyFloofYouDontSayHk1OL5GaUFoh_N0o.mp4'.
+Feb-02-2023 @ 19:59:47 - clip: DignifiedSpicyFloofYouDontSay-Hk1OL5GaUFoh_N0o has been downloaded.
+
+Feb-02-2023 @ 19:59:47 - info: Downloaded 6 clips from this batch
+
+Feb-02-2023 @ 19:59:47 - info: Downloaded a total of 12 clips
+Feb-02-2023 @ 19:59:47 - info: Going to render video in C:/Users/samyi/My Drive (johnnymycroft@gmail.com)/Automation/project-automation/twitchtube-master/clips/Feb-02-2023/tw71p
+
+Feb-02-2023 @ 19:59:48 - info: Added AcceptableResourcefulShrewSmoocherZC0BxsGqdSCIVnnK.mp4 to be rendered
+Feb-02-2023 @ 19:59:49 - info: Added BadCrispyHeronAsianGlowuzHinIoBe8yqTc8Q.mp4 to be rendered
+Feb-02-2023 @ 19:59:50 - info: Added BloodyCautiousEagleHassanChoplyLy9O8UcwR2rtZ .mp4 to be rendered
+Feb-02-2023 @ 19:59:50 - info: Added CautiousBumblingSquidKeepoiswLmw7w2zHkZPIQ.mp4 to be rendered
+Feb-02-2023 @ 19:59:51 - info: Added DepressedNaiveHumanTBTacoRighteXcq4WeILDeTRe.mp4 to be rendered
+Feb-02-2023 @ 19:59:52 - info: Added DignifiedSpicyFloofYouDontSayHk1OL5GaUFoh N0o.mp4 to be rendered
+Feb-02-2023 @ 19:59:53 - info: Added EmpathicSpineyKittenVoteNayLsoEWZbpFGuNIMKV.mp4 to be rendered
+Feb-02-2023 @ 19:59:54 - info: Added HelplessSassyRuffGingerPowerPq6f3Lk9TrXlIqv.mp4 to be rendered
+Feb-02-2023 @ 19:59:55 - info: Added HonestHumbleBulgogiNerfBlueBlastery3ly2lAYHlrnkSoo.mp4 to be rendered
+Feb-02-2023 @ 19:59:56 - info: Added HungrySaltyPoxPeoplesChampcfsHYGmTJALDjhOh.mp4 to be rendered
+Feb-02-2023 @ 19:59:56 - info: Added SteamyCulturedBadgerGrammarKingPK0iIK7lHh34FWUO.mp4 to be rendered
+Feb-02-2023 @ 19:59:57 - info: Added ThankfulIncredulousKoalaGivePLZNYZJS3K7SZnab9M0.mp4 to be rendered
+Feb-02-2023 @ 20:08:55 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-02-2023 @ 20:08:55 - info: You're running the latest version of opplast at 1.0.14
+Feb-02-2023 @ 20:09:12 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-02-2023 @ 20:09:12 - info: You're running the latest version of opplast at 1.0.14
+Feb-02-2023 @ 20:09:12 - info: Going to make video featuring 3 streamers/games, that will end up being ~210.0 seconds long
+Feb-02-2023 @ 20:09:13 - info: Getting clips for channel Trainwreckstv
+Feb-02-2023 @ 20:09:14 - info: Getting clips for game Just Chatting
+Feb-02-2023 @ 20:09:15 - clip: Downloading clip with slug: CredulousThirstyCaterpillarWOOP.
+Feb-02-2023 @ 20:09:15 - clip: Saving 'CredulousThirstyCaterpillarWOOP' as 'CredulousThirstyCaterpillarWOOP.mp4'.
+Feb-02-2023 @ 20:15:01 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-02-2023 @ 20:15:02 - info: You're running the latest version of opplast at 1.0.14
+Feb-02-2023 @ 20:15:02 - info: Going to make video featuring 5 streamers/games, that will end up being ~126.0 seconds long
+Feb-02-2023 @ 20:15:24 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-02-2023 @ 20:15:24 - info: You're running the latest version of opplast at 1.0.14
+Feb-02-2023 @ 20:15:24 - info: Going to make video featuring 3 streamers/games, that will end up being ~210.0 seconds long
+Feb-02-2023 @ 20:15:25 - info: Getting clips for channel xQc
+Feb-02-2023 @ 20:15:25 - info: Getting clips for channel Trainwreckstv
+Feb-02-2023 @ 20:15:26 - info: Getting clips for game Just Chatting
+Feb-02-2023 @ 20:15:28 - clip: Downloading clip with slug: DeliciousDelightfulPicklesWOOP.
+Feb-02-2023 @ 20:15:28 - clip: Saving 'DeliciousDelightfulPicklesWOOP' as 'DeliciousDelightfulPicklesWOOP.mp4'.
+Feb-02-2023 @ 20:15:50 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-02-2023 @ 20:15:50 - info: You're running the latest version of opplast at 1.0.14
+Feb-02-2023 @ 20:15:50 - info: Going to make video featuring 5 streamers/games, that will end up being ~126.0 seconds long
+Feb-02-2023 @ 20:15:51 - info: Getting clips for channel forsen
+Feb-02-2023 @ 20:15:52 - info: Getting clips for channel xQc
+Feb-02-2023 @ 20:15:53 - info: Getting clips for channel Mizkif
+Feb-02-2023 @ 20:15:53 - info: Getting clips for channel Trainwreckstv
+Feb-02-2023 @ 20:15:54 - info: Getting clips for game Just Chatting
+Feb-02-2023 @ 20:15:56 - clip: Downloading clip with slug: ClumsyShortPenguinAMPEnergy-fs15vEn7hq5QfIuT.
+Feb-02-2023 @ 20:15:56 - clip: Saving 'ClumsyShortPenguinAMPEnergy-fs15vEn7hq5QfIuT' as 'ClumsyShortPenguinAMPEnergyfs15vEn7hq5QfIuT.mp4'.
+Feb-02-2023 @ 20:15:58 - clip: ClumsyShortPenguinAMPEnergy-fs15vEn7hq5QfIuT has been downloaded.
+
+Feb-02-2023 @ 20:15:58 - clip: Downloading clip with slug: BoredSaltyGorillaHeyGirl-Vz4cFFQ26GL3KHsX.
+Feb-02-2023 @ 20:15:58 - clip: Saving 'BoredSaltyGorillaHeyGirl-Vz4cFFQ26GL3KHsX' as 'BoredSaltyGorillaHeyGirlVz4cFFQ26GL3KHsX.mp4'.
+Feb-02-2023 @ 20:16:01 - clip: BoredSaltyGorillaHeyGirl-Vz4cFFQ26GL3KHsX has been downloaded.
+
+Feb-02-2023 @ 20:16:01 - info: Downloaded 2 clips from this batch
+
+Feb-02-2023 @ 20:16:02 - clip: Downloading clip with slug: DeliciousDelightfulPicklesWOOP.
+Feb-02-2023 @ 20:16:02 - clip: Saving 'DeliciousDelightfulPicklesWOOP' as 'DeliciousDelightfulPicklesWOOP.mp4'.
+Feb-02-2023 @ 20:16:11 - clip: DeliciousDelightfulPicklesWOOP has been downloaded.
+
+Feb-02-2023 @ 20:16:11 - clip: Downloading clip with slug: NimbleProductiveAsparagusHeyGuys-s77ZvN10Yr-O2sfo.
+Feb-02-2023 @ 20:16:11 - clip: Saving 'NimbleProductiveAsparagusHeyGuys-s77ZvN10Yr-O2sfo' as 'NimbleProductiveAsparagusHeyGuyss77ZvN10YrO2sfo.mp4'.
+Feb-02-2023 @ 20:16:17 - clip: NimbleProductiveAsparagusHeyGuys-s77ZvN10Yr-O2sfo has been downloaded.
+
+Feb-02-2023 @ 20:16:17 - info: Downloaded 2 clips from this batch
+
+Feb-02-2023 @ 20:16:18 - clip: Downloading clip with slug: HappyWealthyHareResidentSleeper-IioBsm5hV7Cufjx_.
+Feb-02-2023 @ 20:16:18 - clip: Saving 'HappyWealthyHareResidentSleeper-IioBsm5hV7Cufjx_' as 'HappyWealthyHareResidentSleeperIioBsm5hV7Cufjx_.mp4'.
+Feb-02-2023 @ 20:16:26 - clip: HappyWealthyHareResidentSleeper-IioBsm5hV7Cufjx_ has been downloaded.
+
+Feb-02-2023 @ 20:16:26 - clip: Downloading clip with slug: ProductiveAgreeableAsteriskKappa.
+Feb-02-2023 @ 20:16:26 - clip: Saving 'ProductiveAgreeableAsteriskKappa' as 'ProductiveAgreeableAsteriskKappa.mp4'.
+Feb-02-2023 @ 20:16:29 - clip: ProductiveAgreeableAsteriskKappa has been downloaded.
+
+Feb-02-2023 @ 20:16:29 - info: Downloaded 2 clips from this batch
+
+Feb-02-2023 @ 20:16:29 - clip: Downloading clip with slug: CredulousThirstyCaterpillarWOOP.
+Feb-02-2023 @ 20:16:29 - clip: Saving 'CredulousThirstyCaterpillarWOOP' as 'CredulousThirstyCaterpillarWOOP.mp4'.
+Feb-02-2023 @ 20:16:39 - clip: CredulousThirstyCaterpillarWOOP has been downloaded.
+
+Feb-02-2023 @ 20:16:40 - clip: Downloading clip with slug: ObeseFrigidBibimbapTBTacoLeft.
+Feb-02-2023 @ 20:16:40 - clip: Saving 'ObeseFrigidBibimbapTBTacoLeft' as 'ObeseFrigidBibimbapTBTacoLeft.mp4'.
+Feb-02-2023 @ 20:16:44 - clip: ObeseFrigidBibimbapTBTacoLeft has been downloaded.
+
+Feb-02-2023 @ 20:16:44 - info: Downloaded 2 clips from this batch
+
+Feb-02-2023 @ 20:16:47 - clip: Downloading clip with slug: AverageSparklyTortoisePeoplesChamp.
+Feb-02-2023 @ 20:16:47 - clip: Saving 'AverageSparklyTortoisePeoplesChamp' as 'AverageSparklyTortoisePeoplesChamp.mp4'.
+Feb-02-2023 @ 20:16:50 - clip: AverageSparklyTortoisePeoplesChamp has been downloaded.
+
+Feb-02-2023 @ 20:16:50 - info: Downloaded 1 clips from this batch
+
+Feb-02-2023 @ 20:16:50 - info: Downloaded a total of 9 clips
+Feb-02-2023 @ 20:16:50 - info: Going to render video in C:/Users/samyi/My Drive (johnnymycroft@gmail.com)/Automation/project-automation/twitchtube-master/clips/Feb-02-2023/1jz0s
+
+Feb-02-2023 @ 20:16:51 - info: Added AverageSparklyTortoisePeoplesChamp.mp4 to be rendered
+Feb-02-2023 @ 20:16:52 - info: Added BoredSaltyGorillaHeyGirlVz4cFFQ26GL3KHsX.mp4 to be rendered
+Feb-02-2023 @ 20:16:53 - info: Added ClumsyShortPenguinAMPEnergyfs15vEn7hq5QfIuT.mp4 to be rendered
+Feb-02-2023 @ 20:16:53 - info: Added CredulousThirstyCaterpillarWOOP.mp4 to be rendered
+Feb-02-2023 @ 20:16:54 - info: Added DeliciousDelightfulPicklesWOOP.mp4 to be rendered
+Feb-02-2023 @ 20:16:56 - info: Added HappyWealthyHareResidentSleeperIioBsm5hV7Cufjx .mp4 to be rendered
+Feb-02-2023 @ 20:16:56 - info: Added NimbleProductiveAsparagusHeyGuyss77ZvN10YrO2sfo.mp4 to be rendered
+Feb-02-2023 @ 20:16:57 - info: Added ObeseFrigidBibimbapTBTacoLeft.mp4 to be rendered
+Feb-02-2023 @ 20:16:58 - info: Added ProductiveAgreeableAsteriskKappa.mp4 to be rendered
+Feb-02-2023 @ 20:25:29 - info: Video is done rendering!
+
+Feb-02-2023 @ 20:26:05 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-02-2023 @ 20:26:06 - info: You're running the latest version of opplast at 1.0.14
+Feb-02-2023 @ 20:26:06 - info: Going to make video featuring 1 streamers/games, that will end up being ~630.0 seconds long
+Feb-02-2023 @ 20:26:06 - info: Getting clips for game Just Chatting
+Feb-02-2023 @ 20:26:08 - clip: Downloading clip with slug: AverageSparklyTortoisePeoplesChamp.
+Feb-02-2023 @ 20:26:08 - clip: Saving 'AverageSparklyTortoisePeoplesChamp' as 'AverageSparklyTortoisePeoplesChamp.mp4'.
+Feb-02-2023 @ 20:26:11 - clip: AverageSparklyTortoisePeoplesChamp has been downloaded.
+
+Feb-02-2023 @ 20:26:11 - info: Downloaded 1 clips from this batch
+
+Feb-02-2023 @ 20:26:11 - info: Downloaded a total of 1 clips
+Feb-02-2023 @ 20:26:11 - info: Going to render video in C:/Users/samyi/My Drive (johnnymycroft@gmail.com)/Automation/project-automation/twitchtube-master/clips/Feb-02-2023/xzdaq
+
+Feb-02-2023 @ 20:26:11 - info: Added AverageSparklyTortoisePeoplesChamp.mp4 to be rendered
+Feb-02-2023 @ 20:27:24 - info: Video is done rendering!
+
+Feb-02-2023 @ 20:27:24 - info: now we implement youtube API!
+
+Feb-02-2023 @ 20:27:24 - info: Getting files to delete...
+Feb-02-2023 @ 20:27:24 - clip: Deleted \AverageSparklyTortoisePeoplesChamp.mp4
+Feb-02-2023 @ 20:27:24 - info: Done!
+Feb-02-2023 @ 22:59:51 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-02-2023 @ 22:59:51 - info: You're running the latest version of opplast at 1.0.14
+Feb-02-2023 @ 22:59:51 - info: Going to make video featuring 1 streamers/games, that will end up being ~630.0 seconds long
+Feb-02-2023 @ 22:59:51 - info: Getting clips for game Just Chatting
+Feb-02-2023 @ 22:59:53 - clip: Downloading clip with slug: AverageSparklyTortoisePeoplesChamp.
+Feb-02-2023 @ 22:59:53 - clip: Saving 'AverageSparklyTortoisePeoplesChamp' as 'AverageSparklyTortoisePeoplesChamp.mp4'.
+Feb-02-2023 @ 22:59:55 - clip: AverageSparklyTortoisePeoplesChamp has been downloaded.
+
+Feb-02-2023 @ 22:59:55 - info: Downloaded 1 clips from this batch
+
+Feb-02-2023 @ 22:59:55 - info: Downloaded a total of 1 clips
+Feb-02-2023 @ 22:59:55 - info: Going to render video in C:/Users/samyi/My Drive (johnnymycroft@gmail.com)/Automation/project-automation/twitchtube-master/clips/Feb-02-2023/icuu3
+
+Feb-02-2023 @ 22:59:55 - info: Added AverageSparklyTortoisePeoplesChamp.mp4 to be rendered
+Feb-02-2023 @ 23:01:01 - info: Video is done rendering!
+
+Feb-02-2023 @ 23:04:14 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-02-2023 @ 23:04:14 - info: You're running the latest version of opplast at 1.0.14
+Feb-02-2023 @ 23:04:14 - info: Going to make video featuring 1 streamers/games, that will end up being ~630.0 seconds long
+Feb-02-2023 @ 23:04:14 - info: Getting clips for game Just Chatting
+Feb-02-2023 @ 23:04:16 - clip: Downloading clip with slug: AverageSparklyTortoisePeoplesChamp.
+Feb-02-2023 @ 23:04:16 - clip: Saving 'AverageSparklyTortoisePeoplesChamp' as 'AverageSparklyTortoisePeoplesChamp.mp4'.
+Feb-02-2023 @ 23:04:18 - clip: AverageSparklyTortoisePeoplesChamp has been downloaded.
+
+Feb-02-2023 @ 23:04:18 - info: Downloaded 1 clips from this batch
+
+Feb-02-2023 @ 23:04:18 - info: Downloaded a total of 1 clips
+Feb-02-2023 @ 23:04:18 - info: Going to render video in C:/Users/samyi/My Drive (johnnymycroft@gmail.com)/Automation/project-automation/twitchtube-master/clips/Feb-02-2023/xgxsc
+
+Feb-02-2023 @ 23:04:18 - info: Added AverageSparklyTortoisePeoplesChamp.mp4 to be rendered
+Feb-02-2023 @ 23:05:26 - info: Video is done rendering!
+
+Feb-02-2023 @ 23:06:30 - info: You're running the latest version of twitchtube at 1.6.6
+Feb-02-2023 @ 23:06:31 - info: You're running the latest version of opplast at 1.0.14
+Feb-02-2023 @ 23:06:31 - info: Going to make video featuring 1 streamers/games, that will end up being ~630.0 seconds long
+Feb-02-2023 @ 23:06:31 - info: Getting clips for game Just Chatting
+Feb-02-2023 @ 23:06:33 - clip: Downloading clip with slug: AverageSparklyTortoisePeoplesChamp.
+Feb-02-2023 @ 23:06:33 - clip: Saving 'AverageSparklyTortoisePeoplesChamp' as 'AverageSparklyTortoisePeoplesChamp.mp4'.
+Feb-02-2023 @ 23:06:34 - clip: AverageSparklyTortoisePeoplesChamp has been downloaded.
+
+Feb-02-2023 @ 23:06:34 - info: Downloaded 1 clips from this batch
+
+Feb-02-2023 @ 23:06:34 - info: Downloaded a total of 1 clips
+Feb-02-2023 @ 23:06:34 - info: Going to render video in C:/Users/samyi/My Drive (johnnymycroft@gmail.com)/Automation/project-automation/twitchtube-master/clips/Feb-02-2023/1nj8n
+
+Feb-02-2023 @ 23:06:35 - info: Added AverageSparklyTortoisePeoplesChamp.mp4 to be rendered
+Feb-02-2023 @ 23:07:42 - info: Video is done rendering!
